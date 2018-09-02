@@ -32,3 +32,8 @@ Starter code for the 2018 ODSC India active learning workshop
 	jupyter notebook
 	```
 7. Open your browser and navigate to the url provided by the jupyter server and open the `Active_Learning_Class.ipynb`
+
+WATSON_API_KEY = 'r3bd5K-aHVhcFVbiMzapjvFSrqNjx0pg6jOLt3qiNbUD' # INPUT WATSON API KEY
+WATSON_CLASSIFIER_ID_1 = "quality_detector_1_1645158165" # INPUT CLASSIFIER 1 ID
+WATSON_CLASSIFIER_ID_2 = "qd_2_2048362238" # INPUT CLASSIFIER 2 ID
+WATSON_CLASSIFIER_ID_3 = "quality_detector_3_2003464426" # INPUT CLASSIFIER 3 ID
