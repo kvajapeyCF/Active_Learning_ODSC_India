@@ -15,7 +15,7 @@ chardet==3.0.4
 cloudpickle==0.5.3
 conda==4.4.10
 constantly==15.1.0
-cryptography==2.1.4
+cryptography==3.2
 cycler==0.10.0
 Cython==0.28.3
 dask==0.18.0
